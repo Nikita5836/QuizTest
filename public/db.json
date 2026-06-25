@@ -1,0 +1,1002 @@
+[
+	{
+		"id": 1,
+		"question": "Кто впервые сконструировал микроскоп, увидел и зарисовал микробы?",
+		"option1": "Луи Пастер",
+		"option2": "Роберт Кох",
+		"option3": "Антони ван Левенгук",
+		"option4": "И.И. Мечников",
+		"option5": "Д. Листер",
+		"correct": 3
+	},
+	{
+		"id": 2,
+		"question": "За какую заслугу И.И. Мечников получил Нобелевскую премию?",
+		"option1": "Открытие антибиотиков",
+		"option2": "Учение о фагоцитозе",
+		"option3": "Открытие вирусов",
+		"option4": "Создание вакцины",
+		"option5": "Открытие бактерий",
+		"correct": 2
+	},
+	{
+		"id": 3,
+		"question": "Что выявляют простые методы окраски?",
+		"option1": "Ферменты",
+		"option2": "Антигены",
+		"option3": "Морфологию и расположение клеток",
+		"option4": "Токсины",
+		"option5": "Споры",
+		"correct": 3
+	},
+	{
+		"id": 4,
+		"question": "Какой важный этап при приготовлении препарата для микроскопии?",
+		"option1": "Нагревание",
+		"option2": "Фиксация мазка",
+		"option3": "Замораживание",
+		"option4": "Сушка в автоклаве",
+		"option5": "Центрифугирование",
+		"correct": 2
+	},
+	{
+		"id": 5,
+		"question": "Без какой структуры бактерии не могут жить?",
+		"option1": "Капсула",
+		"option2": "Споры",
+		"option3": "Клеточная мембрана",
+		"option4": "Жгутики",
+		"option5": "Пили",
+		"correct": 3
+	},
+	{
+		"id": 6,
+		"question": "Какая структура может быть фактором вирулентности?",
+		"option1": "Капсула",
+		"option2": "Цитоплазма",
+		"option3": "Рибосомы",
+		"option4": "Нуклеоид",
+		"option5": "Мезосомы",
+		"correct": 1
+	},
+	{
+		"id": 7,
+		"question": "Какая структура определяет окраску по Граму?",
+		"option1": "Капсула",
+		"option2": "Клеточная стенка",
+		"option3": "Жгутик",
+		"option4": "Нуклеоид",
+		"option5": "Рибосома",
+		"correct": 2
+	},
+	{
+		"id": 8,
+		"question": "Какие структуры дают бактериям биологическое преимущество?",
+		"option1": "Капсула и споры",
+		"option2": "Рибосомы",
+		"option3": "Мембрана",
+		"option4": "Цитоплазма",
+		"option5": "Нуклеоид",
+		"correct": 1
+	},
+	{
+		"id": 9,
+		"question": "Какой метод окраски выявляет споры?",
+		"option1": "Грам",
+		"option2": "Бурри-Гинса",
+		"option3": "Ожешко",
+		"option4": "Циль-Нильсен",
+		"option5": "Нейссер",
+		"correct": 3
+	},
+	{
+		"id": 10,
+		"question": "С чем связана кислотоустойчивость бактерий?",
+		"option1": "Белки мембраны",
+		"option2": "Липиды клеточной стенки",
+		"option3": "Жгутики",
+		"option4": "Пили",
+		"option5": "Рибосомы",
+		"correct": 2
+	},
+	{
+		"id": 11,
+		"question": "К какому царству относятся бактерии?",
+		"option1": "Protista",
+		"option2": "Procaryotae",
+		"option3": "Fungi",
+		"option4": "Animalia",
+		"option5": "Plantae",
+		"correct": 2
+	},
+	{
+		"id": 12,
+		"question": "Что помогает бактериям прикрепляться к клеткам?",
+		"option1": "Пили",
+		"option2": "Жгутики",
+		"option3": "Споры",
+		"option4": "Рибосомы",
+		"option5": "Нуклеоид",
+		"correct": 1
+	},
+	{
+		"id": 13,
+		"question": "Какую функцию выполняет нуклеоид?",
+		"option1": "Дыхание",
+		"option2": "Синтез белка",
+		"option3": "Хранение генетической информации",
+		"option4": "Передвижение",
+		"option5": "Защита",
+		"correct": 3
+	},
+	{
+		"id": 14,
+		"question": "Что используют в окраске по Цилю-Нильсену?",
+		"option1": "Фуксин и метиленовый синий",
+		"option2": "Генцианвиолет и йод",
+		"option3": "Сафранин и спирт",
+		"option4": "Эозин и спирт",
+		"option5": "Малахитовый зеленый",
+		"correct": 1
+	},
+	{
+		"id": 15,
+		"question": "Что используют в окраске по Граму?",
+		"option1": "Карболовый фуксин",
+		"option2": "Генцианвиолет, Люголь, спирт, сафранин",
+		"option3": "Метиленовый синий",
+		"option4": "Эозин",
+		"option5": "Малахитовый зеленый",
+		"correct": 2
+	},
+	{
+		"id": 16,
+		"question": "Функция клеточной стенки бактерий?",
+		"option1": "Синтез белка",
+		"option2": "Защита и форма клетки",
+		"option3": "Передвижение",
+		"option4": "Размножение",
+		"option5": "Питание",
+		"correct": 2
+	},
+	{
+		"id": 17,
+		"question": "Функция цитоплазматической мембраны?",
+		"option1": "Барьерная и транспортная",
+		"option2": "Наследственность",
+		"option3": "Подвижность",
+		"option4": "Фагоцитоз",
+		"option5": "Защита",
+		"correct": 1
+	},
+	{
+		"id": 18,
+		"question": "Как называется препарат для изучения подвижности бактерий?",
+		"option1": "Раздавленная капля",
+		"option2": "Сухой мазок",
+		"option3": "Толстая капля",
+		"option4": "Фиксированный мазок",
+		"option5": "Иммерсионный мазок",
+		"correct": 1
+	},
+	{
+		"id": 19,
+		"question": "Что выявляет метод Бурри-Гинса?",
+		"option1": "Жгутики",
+		"option2": "Капсулу",
+		"option3": "Споры",
+		"option4": "Зерна волютина",
+		"option5": "Рибосомы",
+		"correct": 2
+	},
+	{
+		"id": 20,
+		"question": "Функция жгутиков?",
+		"option1": "Размножение",
+		"option2": "Подвижность",
+		"option3": "Защита",
+		"option4": "Прикрепление",
+		"option5": "Питание",
+		"correct": 2
+	},
+	{
+		"id": 21,
+		"question": "Какие бактерии называются кокками?",
+		"option1": "Палочковидные",
+		"option2": "Шарообразные",
+		"option3": "Извитые",
+		"option4": "Нитевидные",
+		"option5": "Спиралевидные",
+		"correct": 2
+	},
+	{
+		"id": 22,
+		"question": "Какие бактерии относятся к спирохетам?",
+		"option1": "Treponema",
+		"option2": "Staphylococcus",
+		"option3": "Bacillus",
+		"option4": "Escherichia",
+		"option5": "Clostridium",
+		"correct": 1
+	},
+	{
+		"id": 23,
+		"question": "Какой метод используют для изучения живых бактерий?",
+		"option1": "Световая микроскопия",
+		"option2": "Люминесцентная микроскопия",
+		"option3": "Темнопольная микроскопия",
+		"option4": "Электронная микроскопия",
+		"option5": "Гистологический метод",
+		"correct": 3
+	},
+	{
+		"id": 24,
+		"question": "Какой микроорганизм вызывает сифилис?",
+		"option1": "Borrelia recurrentis",
+		"option2": "Treponema pallidum",
+		"option3": "Leptospira interrogans",
+		"option4": "Neisseria gonorrhoeae",
+		"option5": "Chlamydia trachomatis",
+		"correct": 2
+	},
+	{
+		"id": 25,
+		"question": "Какой микроорганизм вызывает гонорею?",
+		"option1": "Treponema pallidum",
+		"option2": "Neisseria gonorrhoeae",
+		"option3": "Chlamydia trachomatis",
+		"option4": "Mycoplasma hominis",
+		"option5": "Ureaplasma urealyticum",
+		"correct": 2
+	},
+	{
+		"id": 26,
+		"question": "Что характерно для риккетсий?",
+		"option1": "Размножение только внутри клетки",
+		"option2": "Образование спор",
+		"option3": "Наличие жгутиков",
+		"option4": "Рост на простых средах",
+		"option5": "Синтез токсинов",
+		"correct": 1
+	},
+	{
+		"id": 27,
+		"question": "Кто открыл фагоцитоз?",
+		"option1": "Левенгук",
+		"option2": "Пастер",
+		"option3": "Кох",
+		"option4": "Мечников",
+		"option5": "Эрлих",
+		"correct": 4
+	},
+	{
+		"id": 28,
+		"question": "Кто разработал метод чистых культур?",
+		"option1": "Роберт Кох",
+		"option2": "Луи Пастер",
+		"option3": "И.И. Мечников",
+		"option4": "Листер",
+		"option5": "Флеминг",
+		"correct": 1
+	},
+	{
+		"id": 29,
+		"question": "Кто создал первую вакцину против бешенства?",
+		"option1": "Кох",
+		"option2": "Пастер",
+		"option3": "Мечников",
+		"option4": "Дженнер",
+		"option5": "Флеминг",
+		"correct": 2
+	},
+	{
+		"id": 30,
+		"question": "Что такое вирулентность?",
+		"option1": "Способность к размножению",
+		"option2": "Степень патогенности",
+		"option3": "Способность образовывать споры",
+		"option4": "Чувствительность к антибиотикам",
+		"option5": "Способность к мутации",
+		"correct": 2
+	},
+	{
+		"id": 31,
+		"question": "Что такое патогенность?",
+		"option1": "Способность вызывать болезнь",
+		"option2": "Способность окрашиваться",
+		"option3": "Способность двигаться",
+		"option4": "Способность к спорообразованию",
+		"option5": "Способность к адгезии",
+		"correct": 1
+	},
+	{
+		"id": 32,
+		"question": "Какие токсины выделяются бактериями наружу?",
+		"option1": "Эндотоксины",
+		"option2": "Экзотоксины",
+		"option3": "Гемолизины",
+		"option4": "Липополисахариды",
+		"option5": "Пирогены",
+		"correct": 2
+	},
+	{
+		"id": 33,
+		"question": "Что входит в состав эндотоксина?",
+		"option1": "Белок",
+		"option2": "Липополисахарид",
+		"option3": "Фермент",
+		"option4": "Капсид",
+		"option5": "Пептидогликан",
+		"correct": 2
+	},
+	{
+		"id": 34,
+		"question": "Какие бактерии чаще образуют экзотоксины?",
+		"option1": "Грамположительные",
+		"option2": "Грамотрицательные",
+		"option3": "Риккетсии",
+		"option4": "Вирусы",
+		"option5": "Грибы",
+		"correct": 1
+	},
+	{
+		"id": 35,
+		"question": "Что такое адгезия?",
+		"option1": "Разрушение клетки",
+		"option2": "Прикрепление к клетке хозяина",
+		"option3": "Размножение",
+		"option4": "Питание",
+		"option5": "Образование спор",
+		"correct": 2
+	},
+	{
+		"id": 36,
+		"question": "Что такое инвазия?",
+		"option1": "Проникновение в ткани",
+		"option2": "Выделение токсинов",
+		"option3": "Размножение в среде",
+		"option4": "Окрашивание бактерий",
+		"option5": "Образование капсулы",
+		"correct": 1
+	},
+	{
+		"id": 37,
+		"question": "Какая структура защищает бактерии от фагоцитоза?",
+		"option1": "Жгутик",
+		"option2": "Пили",
+		"option3": "Капсула",
+		"option4": "Рибосома",
+		"option5": "Мезосома",
+		"correct": 3
+	},
+	{
+		"id": 38,
+		"question": "Что такое сепсис?",
+		"option1": "Местная инфекция",
+		"option2": "Генерализованная инфекция",
+		"option3": "Хроническая инфекция",
+		"option4": "Скрытая инфекция",
+		"option5": "Вирусная инфекция",
+		"correct": 2
+	},
+	{
+		"id": 39,
+		"question": "Что такое бактериемия?",
+		"option1": "Наличие бактерий в крови",
+		"option2": "Наличие вирусов в крови",
+		"option3": "Наличие грибов в крови",
+		"option4": "Наличие токсинов в крови",
+		"option5": "Разрушение крови",
+		"correct": 1
+	},
+	{
+		"id": 40,
+		"question": "Что такое токсемия?",
+		"option1": "Наличие токсинов в крови",
+		"option2": "Наличие бактерий в крови",
+		"option3": "Наличие вирусов в крови",
+		"option4": "Наличие грибов в крови",
+		"option5": "Разрушение тканей",
+		"correct": 1
+	},
+	{
+		"id": 41,
+		"question": "Что такое иммунитет?",
+		"option1": "Способность организма защищаться от инфекций",
+		"option2": "Способность бактерий мутировать",
+		"option3": "Разрушение тканей",
+		"option4": "Образование токсинов",
+		"option5": "Размножение вирусов",
+		"correct": 1
+	},
+	{
+		"id": 42,
+		"question": "Какие клетки выполняют фагоцитоз?",
+		"option1": "Эритроциты",
+		"option2": "Лейкоциты",
+		"option3": "Тромбоциты",
+		"option4": "Гепатоциты",
+		"option5": "Нейроны",
+		"correct": 2
+	},
+	{
+		"id": 43,
+		"question": "Какой иммунитет возникает после вакцинации?",
+		"option1": "Естественный активный",
+		"option2": "Искусственный активный",
+		"option3": "Естественный пассивный",
+		"option4": "Искусственный пассивный",
+		"option5": "Врожденный",
+		"correct": 2
+	},
+	{
+		"id": 44,
+		"question": "Что содержат вакцины?",
+		"option1": "Антитела",
+		"option2": "Ослабленные или убитые микроорганизмы",
+		"option3": "Только токсины",
+		"option4": "Лейкоциты",
+		"option5": "Ферменты",
+		"correct": 2
+	},
+	{
+		"id": 45,
+		"question": "Что такое анатоксин?",
+		"option1": "Ослабленный токсин",
+		"option2": "Антибиотик",
+		"option3": "Антитело",
+		"option4": "Фермент",
+		"option5": "Вирус",
+		"correct": 1
+	},
+	{
+		"id": 46,
+		"question": "Что такое серотерапия?",
+		"option1": "Лечение антибиотиками",
+		"option2": "Лечение сыворотками",
+		"option3": "Лечение вакцинами",
+		"option4": "Лечение бактериофагами",
+		"option5": "Лечение витаминами",
+		"correct": 2
+	},
+	{
+		"id": 47,
+		"question": "Что такое антибиотики?",
+		"option1": "Вирусы",
+		"option2": "Вещества, подавляющие рост бактерий",
+		"option3": "Ферменты",
+		"option4": "Антитела",
+		"option5": "Вакцины",
+		"correct": 2
+	},
+	{
+		"id": 48,
+		"question": "Кто открыл пенициллин?",
+		"option1": "Кох",
+		"option2": "Пастер",
+		"option3": "Флеминг",
+		"option4": "Мечников",
+		"option5": "Эрлих",
+		"correct": 3
+	},
+	{
+		"id": 49,
+		"question": "Что определяет антибиотикограмма?",
+		"option1": "Вид бактерии",
+		"option2": "Чувствительность к антибиотикам",
+		"option3": "Вирулентность",
+		"option4": "Количество бактерий",
+		"option5": "Токсигенность",
+		"correct": 2
+	},
+	{
+		"id": 50,
+		"question": "Какой метод используют для антибиотикограммы?",
+		"option1": "Метод дисков",
+		"option2": "Окраска по Граму",
+		"option3": "РСК",
+		"option4": "ИФА",
+		"option5": "РИФ",
+		"correct": 1
+	},
+	{
+		"id": 51,
+		"question": "Что такое бактериофаг?",
+		"option1": "Гриб",
+		"option2": "Вирус бактерий",
+		"option3": "Антибиотик",
+		"option4": "Фермент",
+		"option5": "Простейшее",
+		"correct": 2
+	},
+	{
+		"id": 52,
+		"question": "Где размножаются вирусы?",
+		"option1": "На питательных средах",
+		"option2": "Внутри живых клеток",
+		"option3": "В воде",
+		"option4": "В воздухе",
+		"option5": "В плазме",
+		"correct": 2
+	},
+	{
+		"id": 53,
+		"question": "Что обязательно входит в состав вируса?",
+		"option1": "Рибосомы",
+		"option2": "Капсид",
+		"option3": "Мембрана",
+		"option4": "Жгутики",
+		"option5": "Пили",
+		"correct": 2
+	},
+	{
+		"id": 54,
+		"question": "Что такое вирион?",
+		"option1": "Клетка бактерии",
+		"option2": "Полная вирусная частица",
+		"option3": "Антитело",
+		"option4": "Фермент",
+		"option5": "Токсин",
+		"correct": 2
+	},
+	{
+		"id": 55,
+		"question": "Какие нуклеиновые кислоты есть у вирусов?",
+		"option1": "Только ДНК",
+		"option2": "Только РНК",
+		"option3": "ДНК или РНК",
+		"option4": "ДНК и РНК одновременно",
+		"option5": "Нет нуклеиновых кислот",
+		"correct": 3
+	},
+	{
+		"id": 56,
+		"question": "Какой вирус вызывает ВИЧ?",
+		"option1": "Retroviridae",
+		"option2": "Herpesviridae",
+		"option3": "Orthomyxoviridae",
+		"option4": "Adenoviridae",
+		"option5": "Picornaviridae",
+		"correct": 1
+	},
+	{
+		"id": 57,
+		"question": "Какие клетки поражает ВИЧ?",
+		"option1": "CD4 лимфоциты",
+		"option2": "Эритроциты",
+		"option3": "Тромбоциты",
+		"option4": "Гепатоциты",
+		"option5": "Фибробласты",
+		"correct": 1
+	},
+	{
+		"id": 58,
+		"question": "Какой вирус вызывает грипп?",
+		"option1": "Orthomyxoviridae",
+		"option2": "Retroviridae",
+		"option3": "Herpesviridae",
+		"option4": "Flaviviridae",
+		"option5": "Adenoviridae",
+		"correct": 1
+	},
+	{
+		"id": 59,
+		"question": "Что вызывает корь?",
+		"option1": "Paramyxovirus",
+		"option2": "Retrovirus",
+		"option3": "Orthomyxovirus",
+		"option4": "Adenovirus",
+		"option5": "Picornavirus",
+		"correct": 1
+	},
+	{
+		"id": 60,
+		"question": "Какой вирус вызывает бешенство?",
+		"option1": "Rhabdovirus",
+		"option2": "Retrovirus",
+		"option3": "Adenovirus",
+		"option4": "Picornavirus",
+		"option5": "Herpesvirus",
+		"correct": 1
+	},
+	{
+		"id": 61,
+		"question": "Какой вирус вызывает вирусный гепатит B?",
+		"option1": "Hepadnavirus",
+		"option2": "Retrovirus",
+		"option3": "Picornavirus",
+		"option4": "Flavivirus",
+		"option5": "Orthomyxovirus",
+		"correct": 1
+	},
+	{
+		"id": 62,
+		"question": "Какой вирус вызывает полиомиелит?",
+		"option1": "Adenovirus",
+		"option2": "Picornavirus",
+		"option3": "Retrovirus",
+		"option4": "Herpesvirus",
+		"option5": "Flavivirus",
+		"correct": 2
+	},
+	{
+		"id": 63,
+		"question": "Какой вирус вызывает герпес?",
+		"option1": "Retroviridae",
+		"option2": "Herpesviridae",
+		"option3": "Orthomyxoviridae",
+		"option4": "Adenoviridae",
+		"option5": "Picornaviridae",
+		"correct": 2
+	},
+	{
+		"id": 64,
+		"question": "Что такое цитопатический эффект вирусов?",
+		"option1": "Разрушение клеток",
+		"option2": "Рост бактерий",
+		"option3": "Выработка антител",
+		"option4": "Фагоцитоз",
+		"option5": "Синтез токсинов",
+		"correct": 1
+	},
+	{
+		"id": 65,
+		"question": "Какой метод используют для диагностики ВИЧ?",
+		"option1": "ИФА",
+		"option2": "Окраска по Граму",
+		"option3": "Реакция Райта",
+		"option4": "Посев",
+		"option5": "ПЦР только для бактерий",
+		"correct": 1
+	},
+	{
+		"id": 66,
+		"question": "Какой метод самый точный для выявления вирусной ДНК?",
+		"option1": "РИФ",
+		"option2": "ИФА",
+		"option3": "ПЦР",
+		"option4": "РА",
+		"option5": "РСК",
+		"correct": 3
+	},
+	{
+		"id": 67,
+		"question": "Какой вирус вызывает желтую лихорадку?",
+		"option1": "Flavivirus",
+		"option2": "Retrovirus",
+		"option3": "Herpesvirus",
+		"option4": "Orthomyxovirus",
+		"option5": "Adenovirus",
+		"correct": 1
+	},
+	{
+		"id": 68,
+		"question": "Какой вирус вызывает натуральную оспу?",
+		"option1": "Poxvirus",
+		"option2": "Retrovirus",
+		"option3": "Adenovirus",
+		"option4": "Flavivirus",
+		"option5": "Picornavirus",
+		"correct": 1
+	},
+	{
+		"id": 69,
+		"question": "Что такое инкубационный период?",
+		"option1": "Период выздоровления",
+		"option2": "Период от заражения до первых симптомов",
+		"option3": "Период лечения",
+		"option4": "Период вакцинации",
+		"option5": "Период хронизации",
+		"correct": 2
+	},
+	{
+		"id": 70,
+		"question": "Какой иммуноглобулин появляется первым?",
+		"option1": "IgA",
+		"option2": "IgG",
+		"option3": "IgM",
+		"option4": "IgE",
+		"option5": "IgD",
+		"correct": 3
+	},
+	{
+		"id": 71,
+		"question": "Какой иммуноглобулин отвечает за долговременный иммунитет?",
+		"option1": "IgM",
+		"option2": "IgG",
+		"option3": "IgA",
+		"option4": "IgE",
+		"option5": "IgD",
+		"correct": 2
+	},
+	{
+		"id": 72,
+		"question": "Какие клетки синтезируют антитела?",
+		"option1": "Т-лимфоциты",
+		"option2": "Плазматические клетки",
+		"option3": "Макрофаги",
+		"option4": "Нейтрофилы",
+		"option5": "Эритроциты",
+		"correct": 2
+	},
+	{
+		"id": 73,
+		"question": "Что такое антиген?",
+		"option1": "Вещество, вызывающее иммунный ответ",
+		"option2": "Антитело",
+		"option3": "Фермент",
+		"option4": "Гормон",
+		"option5": "Токсин",
+		"correct": 1
+	},
+	{
+		"id": 74,
+		"question": "Что такое антитело?",
+		"option1": "Белок иммунной системы",
+		"option2": "Фермент бактерий",
+		"option3": "Вирусный белок",
+		"option4": "Токсин",
+		"option5": "Липид",
+		"correct": 1
+	},
+	{
+		"id": 75,
+		"question": "Что такое агглютинация?",
+		"option1": "Склеивание клеток антигеном и антителом",
+		"option2": "Разрушение клетки",
+		"option3": "Рост бактерий",
+		"option4": "Фагоцитоз",
+		"option5": "Мутация",
+		"correct": 1
+	},
+	{
+		"id": 76,
+		"question": "Что такое преципитация?",
+		"option1": "Образование осадка антиген-антитело",
+		"option2": "Разрушение клетки",
+		"option3": "Рост вируса",
+		"option4": "Синтез токсина",
+		"option5": "Лизис бактерии",
+		"correct": 1
+	},
+	{
+		"id": 77,
+		"question": "Что такое гемолиз?",
+		"option1": "Разрушение эритроцитов",
+		"option2": "Разрушение лейкоцитов",
+		"option3": "Разрушение бактерий",
+		"option4": "Разрушение вирусов",
+		"option5": "Разрушение тромбоцитов",
+		"correct": 1
+	},
+	{
+		"id": 78,
+		"question": "Какой микроорганизм вызывает туберкулез?",
+		"option1": "Mycobacterium tuberculosis",
+		"option2": "Staphylococcus aureus",
+		"option3": "Escherichia coli",
+		"option4": "Salmonella typhi",
+		"option5": "Treponema pallidum",
+		"correct": 1
+	},
+	{
+		"id": 79,
+		"question": "Какой метод используют для диагностики туберкулеза?",
+		"option1": "Окраска по Цилю-Нильсену",
+		"option2": "Окраска по Граму",
+		"option3": "ИФА",
+		"option4": "РА",
+		"option5": "РСК",
+		"correct": 1
+	},
+	{
+		"id": 80,
+		"question": "Какая вакцина используется против туберкулеза?",
+		"option1": "АКДС",
+		"option2": "БЦЖ",
+		"option3": "ОПВ",
+		"option4": "АДС",
+		"option5": "КПК",
+		"correct": 2
+	},
+	{
+		"id": 81,
+		"question": "Какой микроорганизм вызывает дифтерию?",
+		"option1": "Corynebacterium diphtheriae",
+		"option2": "Clostridium tetani",
+		"option3": "Bordetella pertussis",
+		"option4": "Mycobacterium tuberculosis",
+		"option5": "Neisseria meningitidis",
+		"correct": 1
+	},
+	{
+		"id": 82,
+		"question": "Какой токсин продуцирует возбудитель дифтерии?",
+		"option1": "Эндотоксин",
+		"option2": "Экзотоксин",
+		"option3": "Гемолизин",
+		"option4": "Лейкоцидин",
+		"option5": "Энтеротоксин",
+		"correct": 2
+	},
+	{
+		"id": 83,
+		"question": "Какой микроорганизм вызывает столбняк?",
+		"option1": "Clostridium tetani",
+		"option2": "Clostridium botulinum",
+		"option3": "Bacillus anthracis",
+		"option4": "Listeria monocytogenes",
+		"option5": "Corynebacterium diphtheriae",
+		"correct": 1
+	},
+	{
+		"id": 84,
+		"question": "Какой токсин выделяет Clostridium tetani?",
+		"option1": "Тетаноспазмин",
+		"option2": "Ботулотоксин",
+		"option3": "Эритротоксин",
+		"option4": "Энтеротоксин",
+		"option5": "Липополисахарид",
+		"correct": 1
+	},
+	{
+		"id": 85,
+		"question": "Какой микроорганизм вызывает ботулизм?",
+		"option1": "Clostridium tetani",
+		"option2": "Clostridium botulinum",
+		"option3": "Bacillus cereus",
+		"option4": "Salmonella enteritidis",
+		"option5": "Shigella dysenteriae",
+		"correct": 2
+	},
+	{
+		"id": 86,
+		"question": "Какой токсин вызывает ботулизм?",
+		"option1": "Ботулотоксин",
+		"option2": "Тетаноспазмин",
+		"option3": "Эндотоксин",
+		"option4": "Эритротоксин",
+		"option5": "Холероген",
+		"correct": 1
+	},
+	{
+		"id": 87,
+		"question": "Какой микроорганизм вызывает коклюш?",
+		"option1": "Bordetella pertussis",
+		"option2": "Haemophilus influenzae",
+		"option3": "Corynebacterium diphtheriae",
+		"option4": "Streptococcus pneumoniae",
+		"option5": "Neisseria meningitidis",
+		"correct": 1
+	},
+	{
+		"id": 88,
+		"question": "Какой микроорганизм вызывает менингококковую инфекцию?",
+		"option1": "Neisseria gonorrhoeae",
+		"option2": "Neisseria meningitidis",
+		"option3": "Haemophilus influenzae",
+		"option4": "Streptococcus pyogenes",
+		"option5": "Staphylococcus aureus",
+		"correct": 2
+	},
+	{
+		"id": 89,
+		"question": "Какой микроорганизм вызывает холеру?",
+		"option1": "Vibrio cholerae",
+		"option2": "Shigella dysenteriae",
+		"option3": "Salmonella typhi",
+		"option4": "Escherichia coli",
+		"option5": "Campylobacter jejuni",
+		"correct": 1
+	},
+	{
+		"id": 90,
+		"question": "Какой токсин вызывает симптомы холеры?",
+		"option1": "Холероген",
+		"option2": "Эндотоксин",
+		"option3": "Ботулотоксин",
+		"option4": "Тетаноспазмин",
+		"option5": "Эритротоксин",
+		"correct": 1
+	},
+	{
+		"id": 91,
+		"question": "Какой микроорганизм вызывает брюшной тиф?",
+		"option1": "Salmonella typhi",
+		"option2": "Shigella dysenteriae",
+		"option3": "Escherichia coli",
+		"option4": "Vibrio cholerae",
+		"option5": "Yersinia pestis",
+		"correct": 1
+	},
+	{
+		"id": 92,
+		"question": "Какой микроорганизм вызывает дизентерию?",
+		"option1": "Shigella dysenteriae",
+		"option2": "Salmonella typhi",
+		"option3": "Vibrio cholerae",
+		"option4": "Escherichia coli",
+		"option5": "Campylobacter jejuni",
+		"correct": 1
+	},
+	{
+		"id": 93,
+		"question": "Какой микроорганизм вызывает чуму?",
+		"option1": "Yersinia pestis",
+		"option2": "Bacillus anthracis",
+		"option3": "Francisella tularensis",
+		"option4": "Brucella abortus",
+		"option5": "Clostridium tetani",
+		"correct": 1
+	},
+	{
+		"id": 94,
+		"question": "Какой микроорганизм вызывает сибирскую язву?",
+		"option1": "Bacillus anthracis",
+		"option2": "Yersinia pestis",
+		"option3": "Francisella tularensis",
+		"option4": "Brucella melitensis",
+		"option5": "Clostridium botulinum",
+		"correct": 1
+	},
+	{
+		"id": 95,
+		"question": "Какой микроорганизм вызывает бруцеллез?",
+		"option1": "Brucella",
+		"option2": "Yersinia",
+		"option3": "Bacillus",
+		"option4": "Listeria",
+		"option5": "Salmonella",
+		"correct": 1
+	},
+	{
+		"id": 96,
+		"question": "Какой микроорганизм вызывает туляремию?",
+		"option1": "Francisella tularensis",
+		"option2": "Brucella abortus",
+		"option3": "Yersinia pestis",
+		"option4": "Bacillus anthracis",
+		"option5": "Clostridium tetani",
+		"correct": 1
+	},
+	{
+		"id": 97,
+		"question": "Какой микроорганизм вызывает гонорею?",
+		"option1": "Treponema pallidum",
+		"option2": "Neisseria gonorrhoeae",
+		"option3": "Chlamydia trachomatis",
+		"option4": "Mycoplasma hominis",
+		"option5": "Ureaplasma urealyticum",
+		"correct": 2
+	},
+	{
+		"id": 98,
+		"question": "Какой микроорганизм вызывает сифилис?",
+		"option1": "Treponema pallidum",
+		"option2": "Neisseria gonorrhoeae",
+		"option3": "Chlamydia trachomatis",
+		"option4": "Mycoplasma genitalium",
+		"option5": "Ureaplasma",
+		"correct": 1
+	},
+	{
+		"id": 99,
+		"question": "Какой микроорганизм вызывает кандидоз?",
+		"option1": "Candida albicans",
+		"option2": "Aspergillus fumigatus",
+		"option3": "Penicillium notatum",
+		"option4": "Cryptococcus neoformans",
+		"option5": "Mucor",
+		"correct": 1
+	},
+	{
+		"id": 100,
+		"question": "Какой микроорганизм вызывает малярию?",
+		"option1": "Plasmodium",
+		"option2": "Trypanosoma",
+		"option3": "Leishmania",
+		"option4": "Toxoplasma",
+		"option5": "Entamoeba",
+		"correct": 1
+	}
+]
